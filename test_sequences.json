@@ -13,7 +13,7 @@
         "width": "1920",
         "height": "1024",
         "frame_rate": "50",
-        "frame_num": "1",
+        "frame_num": "10",
         "bit_depth": "8",
         "rate_control": "0",
         "target_bits": ["1156000", "628000", "340000", "182000"]
