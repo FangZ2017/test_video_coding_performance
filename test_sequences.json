@@ -1,0 +1,31 @@
+{
+    "foreman": {
+        "seq_dir": "E:/Sequence/IMCL/foreman-cif_320x256.yuv",
+        "width": "320",
+        "height": "256",
+        "frame_rate": "30",
+        "frame_num": "20",
+        "rate_control": "0",
+        "target_bits": ["1156000", "628000", "340000", "182000"]
+    },
+    "BasketballDrive": {
+        "seq_dir": "E:/Sequence/IMCL/BasketballDrive-1920x1024_50_10F.yuv",
+        "width": "1920",
+        "height": "1024",
+        "frame_rate": "50",
+        "frame_num": "1",
+        "bit_depth": "8",
+        "rate_control": "0",
+        "target_bits": ["1156000", "628000", "340000", "182000"]
+    },
+    "daytime": {
+        "seq_dir": "E:/Sequence/IMCL/daytime-camera_1920x1024_10F.yuv",
+        "width": "1920",
+        "height": "1024",
+        "frame_rate": "30",
+        "frame_num": "10",
+        "bit_depth": "8",
+        "rate_control": "0",
+        "target_bits": ["1156000", "628000", "340000", "182000"]
+    }
+}
